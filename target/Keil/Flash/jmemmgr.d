@@ -1,0 +1,13 @@
+.\flash\jmemmgr.o: ..\..\widgets\LibJPEG\source\jmemmgr.c
+.\flash\jmemmgr.o: ../../widgets/LibJPEG/include/jinclude.h
+.\flash\jmemmgr.o: ../../widgets/LibJPEG/include/jconfig.h
+.\flash\jmemmgr.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\flash\jmemmgr.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\flash\jmemmgr.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\jmemmgr.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\flash\jmemmgr.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\jmemmgr.o: ../../widgets/LibJPEG/include/jpeglib.h
+.\flash\jmemmgr.o: ../../widgets/LibJPEG/include/jmorecfg.h
+.\flash\jmemmgr.o: ../../widgets/LibJPEG/include/jpegint.h
+.\flash\jmemmgr.o: ../../widgets/LibJPEG/include/jerror.h
+.\flash\jmemmgr.o: ../../widgets/LibJPEG/include/jmemsys.h

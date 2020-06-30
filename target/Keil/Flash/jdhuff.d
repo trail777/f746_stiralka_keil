@@ -1,0 +1,12 @@
+.\flash\jdhuff.o: ..\..\widgets\LibJPEG\source\jdhuff.c
+.\flash\jdhuff.o: ../../widgets/LibJPEG/include/jinclude.h
+.\flash\jdhuff.o: ../../widgets/LibJPEG/include/jconfig.h
+.\flash\jdhuff.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\flash\jdhuff.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\flash\jdhuff.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\jdhuff.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\flash\jdhuff.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\jdhuff.o: ../../widgets/LibJPEG/include/jpeglib.h
+.\flash\jdhuff.o: ../../widgets/LibJPEG/include/jmorecfg.h
+.\flash\jdhuff.o: ../../widgets/LibJPEG/include/jpegint.h
+.\flash\jdhuff.o: ../../widgets/LibJPEG/include/jerror.h

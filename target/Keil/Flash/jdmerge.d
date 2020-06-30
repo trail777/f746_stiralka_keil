@@ -1,0 +1,12 @@
+.\flash\jdmerge.o: ..\..\widgets\LibJPEG\source\jdmerge.c
+.\flash\jdmerge.o: ../../widgets/LibJPEG/include/jinclude.h
+.\flash\jdmerge.o: ../../widgets/LibJPEG/include/jconfig.h
+.\flash\jdmerge.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\flash\jdmerge.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\flash\jdmerge.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\jdmerge.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\flash\jdmerge.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\jdmerge.o: ../../widgets/LibJPEG/include/jpeglib.h
+.\flash\jdmerge.o: ../../widgets/LibJPEG/include/jmorecfg.h
+.\flash\jdmerge.o: ../../widgets/LibJPEG/include/jpegint.h
+.\flash\jdmerge.o: ../../widgets/LibJPEG/include/jerror.h

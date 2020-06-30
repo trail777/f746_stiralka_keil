@@ -1,0 +1,12 @@
+.\flash\jutils.o: ..\..\widgets\LibJPEG\source\jutils.c
+.\flash\jutils.o: ../../widgets/LibJPEG/include/jinclude.h
+.\flash\jutils.o: ../../widgets/LibJPEG/include/jconfig.h
+.\flash\jutils.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\flash\jutils.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\flash\jutils.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\jutils.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\flash\jutils.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\jutils.o: ../../widgets/LibJPEG/include/jpeglib.h
+.\flash\jutils.o: ../../widgets/LibJPEG/include/jmorecfg.h
+.\flash\jutils.o: ../../widgets/LibJPEG/include/jpegint.h
+.\flash\jutils.o: ../../widgets/LibJPEG/include/jerror.h

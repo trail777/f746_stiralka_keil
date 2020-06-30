@@ -1,0 +1,12 @@
+.\flash\jcapistd.o: ..\..\widgets\LibJPEG\source\jcapistd.c
+.\flash\jcapistd.o: ../../widgets/LibJPEG/include/jinclude.h
+.\flash\jcapistd.o: ../../widgets/LibJPEG/include/jconfig.h
+.\flash\jcapistd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\flash\jcapistd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\flash\jcapistd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\jcapistd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\flash\jcapistd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\jcapistd.o: ../../widgets/LibJPEG/include/jpeglib.h
+.\flash\jcapistd.o: ../../widgets/LibJPEG/include/jmorecfg.h
+.\flash\jcapistd.o: ../../widgets/LibJPEG/include/jpegint.h
+.\flash\jcapistd.o: ../../widgets/LibJPEG/include/jerror.h

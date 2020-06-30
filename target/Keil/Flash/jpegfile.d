@@ -1,0 +1,12 @@
+.\flash\jpegfile.o: ..\..\widgets\src\JPEGFile.cpp
+.\flash\jpegfile.o: ../../widgets/include/widgets/FileInput.hpp
+.\flash\jpegfile.o: ../../touchgfx/framework/include/touchgfx/hal/types.hpp
+.\flash\jpegfile.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\jpegfile.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+.\flash\jpegfile.o: ../../touchgfx/framework/include/touchgfx/hal/Config.hpp
+.\flash\jpegfile.o: ../../widgets/LibJPEG/include/jinclude.h
+.\flash\jpegfile.o: ../../widgets/LibJPEG/include/jconfig.h
+.\flash\jpegfile.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\flash\jpegfile.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\flash\jpegfile.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\flash\jpegfile.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

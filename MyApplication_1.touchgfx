@@ -1,0 +1,1017 @@
+{
+  "Application": {
+    "Screens": [
+      {
+        "Components": [
+          {
+            "RelativeFilename": "background.png",
+            "Alpha": 255,
+            "Name": "background",
+            "X": 0,
+            "Y": 0,
+            "Width": 480,
+            "Height": 272,
+            "Type": "Image",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "RelativeFilename": "back_center_gray.png",
+            "Alpha": 255,
+            "Name": "imageGreyCenter",
+            "X": 120,
+            "Y": 16,
+            "Width": 240,
+            "Height": 240,
+            "Type": "Image",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "RelativeFilename": "bottom_bar.png",
+            "Alpha": 255,
+            "Name": "bottombar",
+            "X": 0,
+            "Y": 196,
+            "Width": 480,
+            "Height": 76,
+            "Type": "Image",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "RelativeFilename": "top_bar.png",
+            "Alpha": 255,
+            "Name": "topbar",
+            "X": 0,
+            "Y": 0,
+            "Width": 480,
+            "Height": 65,
+            "Type": "Image",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "RelativeFilename": "back_center_white.png",
+            "Alpha": 255,
+            "Name": "imageWhiteCenter",
+            "X": 150,
+            "Y": 46,
+            "Width": 180,
+            "Height": 180,
+            "Type": "Image",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "RelativeFilename": "side_gradient_left.png",
+            "Alpha": 0,
+            "Name": "leftShade",
+            "X": 0,
+            "Y": 61,
+            "Width": 50,
+            "Height": 140,
+            "Type": "Image",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Pressed": "left_arrow.png",
+            "Released": "left_arrow.png",
+            "Alpha": 255,
+            "Name": "leftButton",
+            "X": 0,
+            "Y": 112,
+            "Width": 40,
+            "Height": 40,
+            "Type": "Button",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": true
+          },
+          {
+            "RelativeFilename": "side_gradient_right.png",
+            "Alpha": 0,
+            "Name": "rightShade",
+            "X": 431,
+            "Y": 61,
+            "Width": 50,
+            "Height": 140,
+            "Type": "Image",
+            "Visible": false,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Pressed": "right_arrow.png",
+            "Released": "right_arrow.png",
+            "Alpha": 255,
+            "Name": "rightButton",
+            "X": 440,
+            "Y": 112,
+            "Width": 40,
+            "Height": 40,
+            "Type": "Button",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": true
+          },
+          {
+            "Pressed": "icon_instructions_40px.png",
+            "Released": "icon_instructions_40px.png",
+            "Alpha": 255,
+            "Name": "buttonInstructions",
+            "X": 440,
+            "Y": 0,
+            "Width": 40,
+            "Height": 40,
+            "Type": "Button",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Pressed": "icon_about_40px.png",
+            "Released": "icon_about_40px.png",
+            "Alpha": 255,
+            "Name": "buttonAbout",
+            "X": 0,
+            "Y": 0,
+            "Width": 40,
+            "Height": 40,
+            "Type": "Button",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "TextId": "TextId1",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 92,
+              "Green": 92,
+              "Blue": 92
+            },
+            "Alpha": 255,
+            "AutoSize": false,
+            "LineSpacing": 0,
+            "Wildcard1": {
+              "UseBuffer": true,
+              "BufferSize": 20
+            },
+            "Name": "textAreaProgramName",
+            "X": 40,
+            "Y": 13,
+            "Width": 180,
+            "Height": 24,
+            "Type": "TextArea",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": true,
+            "Moveable": false
+          },
+          {
+            "TextId": "TextId2",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 92,
+              "Green": 92,
+              "Blue": 92
+            },
+            "Alpha": 255,
+            "AutoSize": false,
+            "LineSpacing": 0,
+            "Name": "textAreaDash",
+            "X": 220,
+            "Y": 13,
+            "Width": 40,
+            "Height": 24,
+            "Type": "TextArea",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": true,
+            "Moveable": false
+          },
+          {
+            "TextId": "TextId3",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 92,
+              "Green": 92,
+              "Blue": 92
+            },
+            "Alpha": 255,
+            "AutoSize": false,
+            "LineSpacing": 0,
+            "Wildcard1": {
+              "UseBuffer": true,
+              "BufferSize": 5
+            },
+            "Name": "textAreaProgramLength",
+            "X": 260,
+            "Y": 13,
+            "Width": 180,
+            "Height": 24,
+            "Type": "TextArea",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": true,
+            "Moveable": false
+          },
+          {
+            "Pressed": "buttom_arrow.png",
+            "Released": "buttom_arrow.png",
+            "Alpha": 255,
+            "Name": "buttonUp",
+            "X": 220,
+            "Y": 232,
+            "Width": 40,
+            "Height": 40,
+            "Type": "Button",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "RelativeFilename": "icons\\icon_spin_speed_1000_rpm_50px.png",
+            "Alpha": 255,
+            "Name": "imageRPM",
+            "X": 14,
+            "Y": 217,
+            "Width": 50,
+            "Height": 50,
+            "Type": "Image",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": true,
+            "Moveable": false
+          },
+          {
+            "RelativeFilename": "icons\\icon_heat_60_50px.png",
+            "Alpha": 255,
+            "Name": "imageHeat",
+            "X": 71,
+            "Y": 217,
+            "Width": 50,
+            "Height": 50,
+            "Type": "Image",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": true,
+            "Moveable": false
+          },
+          {
+            "RelativeFilename": "icons\\icon_soil_medium_50px.png",
+            "Alpha": 255,
+            "Name": "imageLevel",
+            "X": 125,
+            "Y": 217,
+            "Width": 50,
+            "Height": 50,
+            "Type": "Image",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": true,
+            "Moveable": false
+          },
+          {
+            "RelativeFilename": "icons\\icon_allergy_50px.png",
+            "Alpha": 255,
+            "Name": "imageOption1",
+            "X": 305,
+            "Y": 217,
+            "Width": 50,
+            "Height": 50,
+            "Type": "Image",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": true,
+            "Moveable": false
+          },
+          {
+            "RelativeFilename": "icons\\icon_eco_wash_50px.png",
+            "Alpha": 255,
+            "Name": "imageOption2",
+            "X": 361,
+            "Y": 217,
+            "Width": 50,
+            "Height": 50,
+            "Type": "Image",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": true,
+            "Moveable": false
+          },
+          {
+            "RelativeFilename": "icons\\icon_prewash_50px.png",
+            "Alpha": 255,
+            "Name": "imageOption3",
+            "X": 417,
+            "Y": 217,
+            "Width": 50,
+            "Height": 50,
+            "Type": "Image",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": true,
+            "Moveable": false
+          },
+          {
+            "Pressed": "blue_start.png",
+            "Released": "blue_start.png",
+            "Alpha": 0,
+            "Name": "buttonStart",
+            "X": 190,
+            "Y": 86,
+            "Width": 100,
+            "Height": 100,
+            "Type": "Button",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": true,
+            "Moveable": false
+          },
+          {
+            "Pressed": "pause_stop_button.png",
+            "Released": "pause_stop_button.png",
+            "Alpha": 0,
+            "Name": "buttonPause",
+            "X": 361,
+            "Y": 179,
+            "Width": 70,
+            "Height": 93,
+            "Type": "Button",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": true,
+            "Moveable": false
+          },
+          {
+            "Pressed": "running_button.png",
+            "Released": "running_button.png",
+            "Alpha": 0,
+            "Name": "buttonRun",
+            "X": 48,
+            "Y": 179,
+            "Width": 70,
+            "Height": 93,
+            "Type": "Button",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": true,
+            "Moveable": false
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "InteractionRight",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "TriggerComponent": "rightButton",
+              "Type": "TriggerClicked"
+            },
+            "Action": {
+              "FunctionName": "rightButtonClicked",
+              "Type": "ActionCustom"
+            }
+          },
+          {
+            "InteractionName": "InteractionLeft",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "TriggerComponent": "leftButton",
+              "Type": "TriggerClicked"
+            },
+            "Action": {
+              "FunctionName": "leftButtonClicked",
+              "Type": "ActionCustom"
+            }
+          },
+          {
+            "InteractionName": "InteractionUp",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "TriggerComponent": "buttonUp",
+              "Type": "TriggerClicked"
+            },
+            "Action": {
+              "FunctionName": "buttonUpClicked",
+              "Type": "ActionCustom"
+            }
+          },
+          {
+            "InteractionName": "InteractionAbout",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "TriggerComponent": "buttonAbout",
+              "Type": "TriggerClicked"
+            },
+            "Action": {
+              "ScreenTransitionType": "ScreenTransitionNone",
+              "ActionComponent": "About",
+              "Type": "ActionGotoScreen"
+            }
+          },
+          {
+            "InteractionName": "InteractionInstructions",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "TriggerComponent": "buttonInstructions",
+              "Type": "TriggerClicked"
+            },
+            "Action": {
+              "ScreenTransitionType": "ScreenTransitionNone",
+              "ActionComponent": "Video",
+              "Type": "ActionGotoScreen"
+            }
+          },
+          {
+            "InteractionName": "InteractionButtonStart",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "TriggerComponent": "buttonStart",
+              "Type": "TriggerClicked"
+            },
+            "Action": {
+              "FunctionName": "buttonStartClicked",
+              "Type": "ActionCustom"
+            }
+          },
+          {
+            "InteractionName": "InteractionButtonPause",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "TriggerComponent": "buttonPause",
+              "Type": "TriggerClicked"
+            },
+            "Action": {
+              "FunctionName": "buttonPauseClicked",
+              "Type": "ActionCustom"
+            }
+          },
+          {
+            "InteractionName": "InteractionButtonRun",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "TriggerComponent": "buttonRun",
+              "Type": "TriggerClicked"
+            },
+            "Action": {
+              "FunctionName": "buttonRunClicked",
+              "Type": "ActionCustom"
+            }
+          }
+        ],
+        "Name": "Main",
+        "OverrideDefaultBufferSize": false,
+        "CanvasBufferSize": 0
+      },
+      {
+        "Components": [
+          {
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 255,
+            "Name": "boxbackgrund",
+            "X": 0,
+            "Y": 0,
+            "Width": 480,
+            "Height": 272,
+            "Type": "Box",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "RelativeFilename": "about\\banner.png",
+            "Alpha": 255,
+            "Name": "imageBanner",
+            "X": 0,
+            "Y": 46,
+            "Width": 480,
+            "Height": 119,
+            "Type": "Image",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "TextId": "TextId4",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 0,
+              "Green": 0,
+              "Blue": 0
+            },
+            "Alpha": 255,
+            "AutoSize": true,
+            "LineSpacing": 0,
+            "Name": "textArea1",
+            "X": 40,
+            "Y": 11,
+            "Width": 53,
+            "Height": 35,
+            "Type": "TextArea",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Pressed": "back_arrow.png",
+            "Released": "back_arrow.png",
+            "Alpha": 255,
+            "Name": "buttonBack",
+            "X": 0,
+            "Y": 0,
+            "Width": 40,
+            "Height": 40,
+            "Type": "Button",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 255,
+            "Name": "box",
+            "X": 0,
+            "Y": 165,
+            "Width": 480,
+            "Height": 107,
+            "Type": "Box",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "InteractionBack",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "TriggerComponent": "buttonBack",
+              "Type": "TriggerClicked"
+            },
+            "Action": {
+              "ScreenTransitionType": "ScreenTransitionNone",
+              "ActionComponent": "Main",
+              "Type": "ActionGotoScreen"
+            }
+          }
+        ],
+        "Name": "About",
+        "OverrideDefaultBufferSize": false,
+        "CanvasBufferSize": 0
+      },
+      {
+        "Components": [
+          {
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 255,
+            "Name": "background",
+            "X": 0,
+            "Y": 0,
+            "Width": 480,
+            "Height": 272,
+            "Type": "Box",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "RelativeFilename": "instructions\\video_background.png",
+            "Alpha": 255,
+            "Name": "backgroundImage",
+            "X": 0,
+            "Y": 44,
+            "Width": 480,
+            "Height": 199,
+            "Type": "Image",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "TextId": "TextId5",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 0,
+              "Green": 0,
+              "Blue": 0
+            },
+            "Alpha": 255,
+            "AutoSize": true,
+            "LineSpacing": 0,
+            "Name": "textArea1",
+            "X": 40,
+            "Y": 11,
+            "Width": 113,
+            "Height": 35,
+            "Type": "TextArea",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Pressed": "back_arrow.png",
+            "Released": "back_arrow.png",
+            "Alpha": 255,
+            "Name": "buttonBack",
+            "X": 0,
+            "Y": 0,
+            "Width": 40,
+            "Height": 40,
+            "Type": "Button",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "RelativeFilename": "instructions\\video_play_button.png",
+            "Alpha": 255,
+            "Name": "imageIndication",
+            "X": 266,
+            "Y": 101,
+            "Width": 70,
+            "Height": 70,
+            "Type": "Image",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": true,
+            "Moveable": false
+          },
+          {
+            "TextId": "VideoHeadline1",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 0,
+              "Green": 0,
+              "Blue": 0
+            },
+            "Alpha": 255,
+            "AutoSize": false,
+            "LineSpacing": 0,
+            "Name": "textAreaHeadline",
+            "X": 7,
+            "Y": 64,
+            "Width": 120,
+            "Height": 26,
+            "Type": "TextArea",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": true,
+            "Moveable": false
+          },
+          {
+            "TextId": "VideoText1",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 0,
+              "Green": 0,
+              "Blue": 0
+            },
+            "Alpha": 255,
+            "AutoSize": false,
+            "LineSpacing": 0,
+            "Name": "textAreaBodyText",
+            "X": 7,
+            "Y": 88,
+            "Width": 120,
+            "Height": 126,
+            "Type": "TextArea",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": true,
+            "Moveable": false
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "InteractionBack",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "TriggerComponent": "buttonBack",
+              "Type": "TriggerClicked"
+            },
+            "Action": {
+              "ScreenTransitionType": "ScreenTransitionNone",
+              "ActionComponent": "Main",
+              "Type": "ActionGotoScreen"
+            }
+          }
+        ],
+        "Name": "Video",
+        "OverrideDefaultBufferSize": false,
+        "CanvasBufferSize": 0
+      },
+      {
+        "Components": [
+          {
+            "RelativeFilename": "screensaver\\screensaver_background.png",
+            "Alpha": 255,
+            "Name": "background",
+            "X": 0,
+            "Y": 0,
+            "Width": 480,
+            "Height": 272,
+            "Type": "Image",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Pressed": "screensaver\\gotoMenu.png",
+            "Released": "screensaver\\gotoMenu.png",
+            "Alpha": 255,
+            "Name": "quitButton",
+            "X": 415,
+            "Y": 216,
+            "Width": 55,
+            "Height": 42,
+            "Type": "Button",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "RelativeFilename": "screensaver\\TGFX_shadow_logo.png",
+            "Alpha": 255,
+            "Name": "logo",
+            "X": 59,
+            "Y": 90,
+            "Width": 362,
+            "Height": 93,
+            "Type": "Image",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "quitScreenSaverInitiated",
+            "HasCompletedTrigger": true,
+            "Trigger": {
+              "TriggerComponent": "quitButton",
+              "Type": "TriggerClicked"
+            },
+            "Action": {
+              "FunctionName": "endScreenSaverAnimation",
+              "Type": "ActionCustom"
+            }
+          },
+          {
+            "InteractionName": "waitToEndScreen",
+            "HasCompletedTrigger": true,
+            "Trigger": {
+              "InteractionToTriggerOn": "quitScreenSaverInitiated",
+              "Type": "TriggerInteractionCompleted"
+            },
+            "Action": {
+              "Duration": 1200,
+              "Type": "ActionDelay"
+            }
+          },
+          {
+            "InteractionName": "endScreenSaver",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "InteractionToTriggerOn": "waitToEndScreen",
+              "Type": "TriggerInteractionCompleted"
+            },
+            "Action": {
+              "ScreenTransitionType": "ScreenTransitionNone",
+              "ActionComponent": "Main",
+              "Type": "ActionGotoScreen"
+            }
+          },
+          {
+            "InteractionName": "fadeLogo",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "InteractionToTriggerOn": "quitScreenSaverInitiated",
+              "Type": "TriggerInteractionCompleted"
+            },
+            "Action": {
+              "Alpha": 0,
+              "Easing": "Cubic",
+              "EasingOption": "In",
+              "Duration": 605,
+              "ActionComponent": "logo",
+              "Type": "ActionFade"
+            }
+          },
+          {
+            "InteractionName": "Interaction1",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "Type": "TriggerScreenEntered"
+            },
+            "Action": {
+              "Code": "waitToEndScreenCounter = 0;",
+              "Type": "ActionExecuteCode"
+            }
+          }
+        ],
+        "Name": "ScreenSaver",
+        "OverrideDefaultBufferSize": false,
+        "CanvasBufferSize": 0
+      }
+    ],
+    "CustomContainerDefinitions": [],
+    "TextEntries": [
+      {
+        "TextEntryId": "TextId1",
+        "IsResource": true
+      },
+      {
+        "TextEntryId": "TextId2",
+        "IsResource": true
+      },
+      {
+        "TextEntryId": "TextId3",
+        "IsResource": true
+      },
+      {
+        "TextEntryId": "TextId4",
+        "IsResource": true
+      },
+      {
+        "TextEntryId": "TextId5",
+        "IsResource": true
+      },
+      {
+        "TextEntryId": "VideoHeadline1",
+        "IsResource": true
+      },
+      {
+        "TextEntryId": "VideoHeadline2",
+        "IsResource": true
+      },
+      {
+        "TextEntryId": "VideoHeadline3",
+        "IsResource": true
+      },
+      {
+        "TextEntryId": "VideoHeadline4",
+        "IsResource": true
+      },
+      {
+        "TextEntryId": "VideoText1",
+        "IsResource": true
+      },
+      {
+        "TextEntryId": "VideoText2",
+        "IsResource": true
+      },
+      {
+        "TextEntryId": "VideoText3",
+        "IsResource": true
+      },
+      {
+        "TextEntryId": "VideoText4",
+        "IsResource": true
+      },
+      {
+        "TextEntryId": "TextId6",
+        "IsResource": true
+      },
+      {
+        "TextEntryId": "TextId7",
+        "IsResource": true
+      }
+    ],
+    "Name": "MyApplication_1",
+    "Resolution": {
+      "Width": 480,
+      "Height": 272
+    },
+    "SelectedColorDepth": 16,
+    "StartupScreenName": "ScreenSaver",
+    "SelectedStartupLanguage": "GB",
+    "Skin": "Blue",
+    "TouchGfxPath": "touchgfx",
+    "UIPath": ".",
+    "ApplicationTemplateName": "ST_STM32F746G_DISCO",
+    "ApplicationTemplateVersion": "1.0.0",
+    "ApplicationTemplateDescription": "ST STM32F746G DISCO Application Template",
+    "AvailableColorDepths": [
+      16,
+      24
+    ],
+    "AvailableLCDs": {
+      "16": "LCD16bpp",
+      "24": "LCD24bpp"
+    },
+    "AvailableSections": [
+      "ExtFlashSection",
+      "IntFlashSection"
+    ],
+    "AvailableResolutions": [
+      {
+        "Width": 480,
+        "Height": 272
+      }
+    ],
+    "PhysicalButtons": [],
+    "FrameworkFeatures": {
+      "LCD16bpp": {
+        "Id": "LCD16bpp",
+        "IsEnabled": true
+      }
+    },
+    "GenerateAssetsCommand": "make -f simulator/gcc/Makefile assets -j8",
+    "PostGenerateCommand": "touchgfx update_project --project-file=target/IAR/application.ewp && touchgfx update_project --project-file=target/IAR8.x/application.ewp && touchgfx update_project --project-file=target/Keil/application.uvprojx && touchgfx update_project --project-file=simulator/msvs/Application.vcxproj",
+    "CompileSimulatorCommand": "make -f simulator/gcc/Makefile -j8",
+    "RunSimulatorCommand": "build\\bin\\simulator.exe",
+    "CompileTargetCommand": "make -f target/gcc/Makefile -j8",
+    "FlashTargetCommand": "make -f target/gcc/Makefile -j8 flash",
+    "LandscapeSkinX": 0,
+    "LandscapeSkinY": 0,
+    "PortraitSkinX": 0,
+    "PortraitSkinY": 0,
+    "DisplayOrientation": "Landscape"
+  },
+  "Version": "4.13.0",
+  "CreatedBy": "4.13.0"
+}

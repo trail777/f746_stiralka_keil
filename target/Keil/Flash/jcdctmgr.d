@@ -1,0 +1,13 @@
+.\flash\jcdctmgr.o: ..\..\widgets\LibJPEG\source\jcdctmgr.c
+.\flash\jcdctmgr.o: ../../widgets/LibJPEG/include/jinclude.h
+.\flash\jcdctmgr.o: ../../widgets/LibJPEG/include/jconfig.h
+.\flash\jcdctmgr.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\flash\jcdctmgr.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\flash\jcdctmgr.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\jcdctmgr.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\flash\jcdctmgr.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\jcdctmgr.o: ../../widgets/LibJPEG/include/jpeglib.h
+.\flash\jcdctmgr.o: ../../widgets/LibJPEG/include/jmorecfg.h
+.\flash\jcdctmgr.o: ../../widgets/LibJPEG/include/jpegint.h
+.\flash\jcdctmgr.o: ../../widgets/LibJPEG/include/jerror.h
+.\flash\jcdctmgr.o: ../../widgets/LibJPEG/include/jdct.h

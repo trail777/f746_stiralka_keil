@@ -1,0 +1,13 @@
+.\flash\jerror.o: ..\..\widgets\LibJPEG\source\jerror.c
+.\flash\jerror.o: ../../widgets/LibJPEG/include/jinclude.h
+.\flash\jerror.o: ../../widgets/LibJPEG/include/jconfig.h
+.\flash\jerror.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\flash\jerror.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\flash\jerror.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\jerror.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\flash\jerror.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\jerror.o: ../../widgets/LibJPEG/include/jpeglib.h
+.\flash\jerror.o: ../../widgets/LibJPEG/include/jmorecfg.h
+.\flash\jerror.o: ../../widgets/LibJPEG/include/jversion.h
+.\flash\jerror.o: ../../widgets/LibJPEG/include/jerror.h
+.\flash\jerror.o: ../../widgets/LibJPEG/include/jerror.h

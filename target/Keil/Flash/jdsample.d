@@ -1,0 +1,12 @@
+.\flash\jdsample.o: ..\..\widgets\LibJPEG\source\jdsample.c
+.\flash\jdsample.o: ../../widgets/LibJPEG/include/jinclude.h
+.\flash\jdsample.o: ../../widgets/LibJPEG/include/jconfig.h
+.\flash\jdsample.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\flash\jdsample.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\flash\jdsample.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\jdsample.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\flash\jdsample.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\jdsample.o: ../../widgets/LibJPEG/include/jpeglib.h
+.\flash\jdsample.o: ../../widgets/LibJPEG/include/jmorecfg.h
+.\flash\jdsample.o: ../../widgets/LibJPEG/include/jpegint.h
+.\flash\jdsample.o: ../../widgets/LibJPEG/include/jerror.h

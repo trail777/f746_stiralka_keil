@@ -1,0 +1,12 @@
+.\flash\jquant1.o: ..\..\widgets\LibJPEG\source\jquant1.c
+.\flash\jquant1.o: ../../widgets/LibJPEG/include/jinclude.h
+.\flash\jquant1.o: ../../widgets/LibJPEG/include/jconfig.h
+.\flash\jquant1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\flash\jquant1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\flash\jquant1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\jquant1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\flash\jquant1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\jquant1.o: ../../widgets/LibJPEG/include/jpeglib.h
+.\flash\jquant1.o: ../../widgets/LibJPEG/include/jmorecfg.h
+.\flash\jquant1.o: ../../widgets/LibJPEG/include/jpegint.h
+.\flash\jquant1.o: ../../widgets/LibJPEG/include/jerror.h

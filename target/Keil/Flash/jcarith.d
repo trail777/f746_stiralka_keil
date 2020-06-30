@@ -1,0 +1,12 @@
+.\flash\jcarith.o: ..\..\widgets\LibJPEG\source\jcarith.c
+.\flash\jcarith.o: ../../widgets/LibJPEG/include/jinclude.h
+.\flash\jcarith.o: ../../widgets/LibJPEG/include/jconfig.h
+.\flash\jcarith.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\flash\jcarith.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\flash\jcarith.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\jcarith.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\flash\jcarith.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\jcarith.o: ../../widgets/LibJPEG/include/jpeglib.h
+.\flash\jcarith.o: ../../widgets/LibJPEG/include/jmorecfg.h
+.\flash\jcarith.o: ../../widgets/LibJPEG/include/jpegint.h
+.\flash\jcarith.o: ../../widgets/LibJPEG/include/jerror.h

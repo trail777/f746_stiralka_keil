@@ -1,0 +1,10 @@
+.\flash\generatedfont.o: ../../generated/fonts/src/generatedfont.cpp
+.\flash\generatedfont.o: ../../generated/fonts/include/fonts/GeneratedFont.hpp
+.\flash\generatedfont.o: ../../touchgfx/framework/include/touchgfx/ConstFont.hpp
+.\flash\generatedfont.o: ../../touchgfx/framework/include/touchgfx/Font.hpp
+.\flash\generatedfont.o: ../../touchgfx/framework/include/touchgfx/hal/Types.hpp
+.\flash\generatedfont.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\generatedfont.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+.\flash\generatedfont.o: ../../touchgfx/framework/include/touchgfx/hal/Config.hpp
+.\flash\generatedfont.o: ../../touchgfx/framework/include/touchgfx/Unicode.hpp
+.\flash\generatedfont.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h

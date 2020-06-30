@@ -1,0 +1,12 @@
+.\flash\jdmarker.o: ..\..\widgets\LibJPEG\source\jdmarker.c
+.\flash\jdmarker.o: ../../widgets/LibJPEG/include/jinclude.h
+.\flash\jdmarker.o: ../../widgets/LibJPEG/include/jconfig.h
+.\flash\jdmarker.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\flash\jdmarker.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\flash\jdmarker.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\jdmarker.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\flash\jdmarker.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\jdmarker.o: ../../widgets/LibJPEG/include/jpeglib.h
+.\flash\jdmarker.o: ../../widgets/LibJPEG/include/jmorecfg.h
+.\flash\jdmarker.o: ../../widgets/LibJPEG/include/jpegint.h
+.\flash\jdmarker.o: ../../widgets/LibJPEG/include/jerror.h

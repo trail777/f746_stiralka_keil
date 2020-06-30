@@ -1,0 +1,12 @@
+.\flash\jcmaster.o: ..\..\widgets\LibJPEG\source\jcmaster.c
+.\flash\jcmaster.o: ../../widgets/LibJPEG/include/jinclude.h
+.\flash\jcmaster.o: ../../widgets/LibJPEG/include/jconfig.h
+.\flash\jcmaster.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\flash\jcmaster.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\flash\jcmaster.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\jcmaster.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\flash\jcmaster.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\jcmaster.o: ../../widgets/LibJPEG/include/jpeglib.h
+.\flash\jcmaster.o: ../../widgets/LibJPEG/include/jmorecfg.h
+.\flash\jcmaster.o: ../../widgets/LibJPEG/include/jpegint.h
+.\flash\jcmaster.o: ../../widgets/LibJPEG/include/jerror.h

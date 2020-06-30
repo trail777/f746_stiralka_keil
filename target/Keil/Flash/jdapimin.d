@@ -1,0 +1,12 @@
+.\flash\jdapimin.o: ..\..\widgets\LibJPEG\source\jdapimin.c
+.\flash\jdapimin.o: ../../widgets/LibJPEG/include/jinclude.h
+.\flash\jdapimin.o: ../../widgets/LibJPEG/include/jconfig.h
+.\flash\jdapimin.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\flash\jdapimin.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\flash\jdapimin.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\jdapimin.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\flash\jdapimin.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\jdapimin.o: ../../widgets/LibJPEG/include/jpeglib.h
+.\flash\jdapimin.o: ../../widgets/LibJPEG/include/jmorecfg.h
+.\flash\jdapimin.o: ../../widgets/LibJPEG/include/jpegint.h
+.\flash\jdapimin.o: ../../widgets/LibJPEG/include/jerror.h

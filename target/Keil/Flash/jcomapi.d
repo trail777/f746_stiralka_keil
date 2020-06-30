@@ -1,0 +1,12 @@
+.\flash\jcomapi.o: ..\..\widgets\LibJPEG\source\jcomapi.c
+.\flash\jcomapi.o: ../../widgets/LibJPEG/include/jinclude.h
+.\flash\jcomapi.o: ../../widgets/LibJPEG/include/jconfig.h
+.\flash\jcomapi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\flash\jcomapi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\flash\jcomapi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\jcomapi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\flash\jcomapi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\jcomapi.o: ../../widgets/LibJPEG/include/jpeglib.h
+.\flash\jcomapi.o: ../../widgets/LibJPEG/include/jmorecfg.h
+.\flash\jcomapi.o: ../../widgets/LibJPEG/include/jpegint.h
+.\flash\jcomapi.o: ../../widgets/LibJPEG/include/jerror.h

@@ -1,0 +1,12 @@
+.\flash\jdcoefct.o: ..\..\widgets\LibJPEG\source\jdcoefct.c
+.\flash\jdcoefct.o: ../../widgets/LibJPEG/include/jinclude.h
+.\flash\jdcoefct.o: ../../widgets/LibJPEG/include/jconfig.h
+.\flash\jdcoefct.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\flash\jdcoefct.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\flash\jdcoefct.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\jdcoefct.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\flash\jdcoefct.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\jdcoefct.o: ../../widgets/LibJPEG/include/jpeglib.h
+.\flash\jdcoefct.o: ../../widgets/LibJPEG/include/jmorecfg.h
+.\flash\jdcoefct.o: ../../widgets/LibJPEG/include/jpegint.h
+.\flash\jdcoefct.o: ../../widgets/LibJPEG/include/jerror.h

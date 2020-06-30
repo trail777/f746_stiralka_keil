@@ -1,0 +1,12 @@
+.\flash\jdtrans.o: ..\..\widgets\LibJPEG\source\jdtrans.c
+.\flash\jdtrans.o: ../../widgets/LibJPEG/include/jinclude.h
+.\flash\jdtrans.o: ../../widgets/LibJPEG/include/jconfig.h
+.\flash\jdtrans.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\flash\jdtrans.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\flash\jdtrans.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\jdtrans.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\flash\jdtrans.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\jdtrans.o: ../../widgets/LibJPEG/include/jpeglib.h
+.\flash\jdtrans.o: ../../widgets/LibJPEG/include/jmorecfg.h
+.\flash\jdtrans.o: ../../widgets/LibJPEG/include/jpegint.h
+.\flash\jdtrans.o: ../../widgets/LibJPEG/include/jerror.h

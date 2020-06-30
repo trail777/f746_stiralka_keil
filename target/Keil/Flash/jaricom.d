@@ -1,0 +1,12 @@
+.\flash\jaricom.o: ..\..\widgets\LibJPEG\source\jaricom.c
+.\flash\jaricom.o: ../../widgets/LibJPEG/include/jinclude.h
+.\flash\jaricom.o: ../../widgets/LibJPEG/include/jconfig.h
+.\flash\jaricom.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\flash\jaricom.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\flash\jaricom.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\jaricom.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\flash\jaricom.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\jaricom.o: ../../widgets/LibJPEG/include/jpeglib.h
+.\flash\jaricom.o: ../../widgets/LibJPEG/include/jmorecfg.h
+.\flash\jaricom.o: ../../widgets/LibJPEG/include/jpegint.h
+.\flash\jaricom.o: ../../widgets/LibJPEG/include/jerror.h

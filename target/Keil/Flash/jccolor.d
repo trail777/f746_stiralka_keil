@@ -1,0 +1,12 @@
+.\flash\jccolor.o: ..\..\widgets\LibJPEG\source\jccolor.c
+.\flash\jccolor.o: ../../widgets/LibJPEG/include/jinclude.h
+.\flash\jccolor.o: ../../widgets/LibJPEG/include/jconfig.h
+.\flash\jccolor.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\flash\jccolor.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\flash\jccolor.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\jccolor.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\flash\jccolor.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\jccolor.o: ../../widgets/LibJPEG/include/jpeglib.h
+.\flash\jccolor.o: ../../widgets/LibJPEG/include/jmorecfg.h
+.\flash\jccolor.o: ../../widgets/LibJPEG/include/jpegint.h
+.\flash\jccolor.o: ../../widgets/LibJPEG/include/jerror.h

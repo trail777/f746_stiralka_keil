@@ -1,0 +1,12 @@
+.\flash\jdmainct.o: ..\..\widgets\LibJPEG\source\jdmainct.c
+.\flash\jdmainct.o: ../../widgets/LibJPEG/include/jinclude.h
+.\flash\jdmainct.o: ../../widgets/LibJPEG/include/jconfig.h
+.\flash\jdmainct.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\flash\jdmainct.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\flash\jdmainct.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\jdmainct.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\flash\jdmainct.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\jdmainct.o: ../../widgets/LibJPEG/include/jpeglib.h
+.\flash\jdmainct.o: ../../widgets/LibJPEG/include/jmorecfg.h
+.\flash\jdmainct.o: ../../widgets/LibJPEG/include/jpegint.h
+.\flash\jdmainct.o: ../../widgets/LibJPEG/include/jerror.h

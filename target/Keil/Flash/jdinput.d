@@ -1,0 +1,12 @@
+.\flash\jdinput.o: ..\..\widgets\LibJPEG\source\jdinput.c
+.\flash\jdinput.o: ../../widgets/LibJPEG/include/jinclude.h
+.\flash\jdinput.o: ../../widgets/LibJPEG/include/jconfig.h
+.\flash\jdinput.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\flash\jdinput.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\flash\jdinput.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\jdinput.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\flash\jdinput.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\jdinput.o: ../../widgets/LibJPEG/include/jpeglib.h
+.\flash\jdinput.o: ../../widgets/LibJPEG/include/jmorecfg.h
+.\flash\jdinput.o: ../../widgets/LibJPEG/include/jpegint.h
+.\flash\jdinput.o: ../../widgets/LibJPEG/include/jerror.h
